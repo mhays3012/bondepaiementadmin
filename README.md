@@ -2,11 +2,6 @@
 
 Bienvenue ! Ce dépôt a été généré automatiquement via GitHub Classroom pour la remise de votre projet de fin d’année **individuel**.
 
-> **Département** : [Aucun / Génie Informatique, Intelligence Artificielle, Systèmes Informatiques]  
-> **Filière** : [Aucune / Robotique / Data Science / Réseaux Informatiques / Ingénierie Logicielle / Sécurité Informatique] 
-> **Année académique** : 2024–2025  
-> **Encadrant** : Professeur ou Assistant [Nom de l’enseignant] / La Commission
-
 ---
 
 ## 📌 Objectif du projet
@@ -177,6 +172,17 @@ Pour que votre projet soit pris en compte, **merci de suivre scrupuleusement tou
 * Tout dépôt non soumis conformément à ces consignes ne sera pas pris en compte.
 
 En cas de difficulté, contactez votre la COMMISSION **avant la deadline**.
+
+
+---
+
+
+## 💡 Comprendre Git et GitHub
+
+Cette vidéo vous explique les bases de Git et GitHub : création de dépôt, commits, push/pull, branches, etc.  
+Utile pour bien démarrer avec le versioning collaboratif.
+
+👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=V6Zo68uQPqE)
 
 ---
 ## 📄 Licence
