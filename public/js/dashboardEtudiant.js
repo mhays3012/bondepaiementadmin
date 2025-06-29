@@ -66,7 +66,7 @@ document.getElementById("bonsForm").addEventListener("submit", (e) => {
     const motif = bon.value;
     const ref = genererReference();
     const banque = "Rawbank UPC";
-    const numeroCompte = "00011-55101-12345678900-55";
+    const numeroCompte = "01000181101-67";
     const agence = "55101-Kinshasa UPC";
 
     // Récupération du montant depuis le backend
